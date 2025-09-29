@@ -11,7 +11,6 @@ The study aimed to **reduce delivery times**, **cut operational costs**, and imp
 ## 🛠️ Tools & Skills Used
 - **Microsoft Excel** – Cost-benefit analysis and ROI calculations  
 - **Data Visualization** – Charts for presenting key findings  
-- **Power BI (Optional)** – Dashboard creation for simulation insights  
 - **Business Analytics** – Risk analysis and strategy formulation
 
 ---
@@ -57,14 +56,6 @@ Taclo needed to:
 ---
 
 ## 📂 Project Structure
-
----
-
-## 📸 Visual Preview
-*(Add your screenshots here)*  
-![Taclo Analysis Chart](Screenshots/ROI_chart.png)
-
----
 
 ## 🚀 Outcomes
 - **Phased Rollout Plan**:
