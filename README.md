@@ -1,4 +1,4 @@
-# 🚁 Taclo Drone Delivery – Business Case Study  
+# 🚁 Logistics Optimization Case Study (Drone Delivery Feasibility)
 
 ## 📖 Project Overview  
 The **Taclo Drone Delivery Project** evaluates the **feasibility and ROI** of introducing **drone-enabled logistics** for a food delivery company.  
